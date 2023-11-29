@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: client
-          image: rallycoding/client
+          image: jzenon/client
           resources:
             requests:
               memory: "300Mi"
